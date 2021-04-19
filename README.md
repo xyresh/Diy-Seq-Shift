@@ -10,6 +10,10 @@ The Parts Necessary for the Mechanical Build are:
   
   >an adapter from M10 to the shifter Knob of Your Preference
   
+  >a reasonably stiff spring that's at most 25mm in diameter
+  
+  >a 30mm ext. ,10mm hole washer and M10 Nuts 
+  
 From an Electronics Point of View You will Need:
   
   >2 Micro Switches with a short Handle that can be mounted on the M5 Bolts(I drilled out the screw holes a bit more to fit them on the bolts)
