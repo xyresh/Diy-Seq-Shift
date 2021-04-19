@@ -18,6 +18,13 @@ From an Electronics Point of View You will Need:
   
   >Some Wire
 
+As For Software you need to Install CircuitPython onto your Pi Pico in order for this to work.
+Also you will need the Adafruit HID library which can be found Here:
+https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases/tag/20210417
+
+and once you drag and drop the adafruit-hid folder into your lib folder within the pi pico storage
+and the code.py file you will be ready.
+The Default Buttons are the 'C' and 'V' Key equivalents but you can change these at any time
 
 This Project is Completely Open Source and You can do whatever you like with these Designs and the Code That is Provided.
 Feel free to contact me about anything related at:  xyresh996@gmail.com
